@@ -1,0 +1,1 @@
+public record Project(int Id, string Title, string Tech);

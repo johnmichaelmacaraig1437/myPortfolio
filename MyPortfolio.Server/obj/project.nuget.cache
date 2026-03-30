@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "c5k73Bmpjhc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\macarajo\\MyPortfolio\\MyPortfolio.Server\\MyPortfolio.Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\macarajo\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.2\\microsoft.aspnetcore.openapi.9.0.2.nupkg.sha512",
+    "C:\\Users\\macarajo\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
