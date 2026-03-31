@@ -7,12 +7,13 @@ const Splash: React.FC = () => {
 
   // Set the browser tab title
   useEffect(() => {
-    document.title = "MyPortfolio.Client";
+    document.title = "MyPortfolio";
   }, []);
 
   return (
     <div className="splash">
       <div className="splash-content">
+
         <h1 className="graffiti-title">MY PORTFOLIO</h1>
         {/* <h2 className="graffiti-subtitle">John Michael Macaraig</h2> */}
         <button className="enter-btn" onClick={() => navigate('/projects')}>
