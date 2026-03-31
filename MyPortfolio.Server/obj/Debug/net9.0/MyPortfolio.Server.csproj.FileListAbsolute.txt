@@ -31,3 +31,4 @@ C:\Users\macarajo\MyPortfolio\MyPortfolio.Server\obj\Debug\net9.0\refint\MyPortf
 C:\Users\macarajo\MyPortfolio\MyPortfolio.Server\obj\Debug\net9.0\MyPortfolio.Server.pdb
 C:\Users\macarajo\MyPortfolio\MyPortfolio.Server\obj\Debug\net9.0\MyPortfolio.Server.genruntimeconfig.cache
 C:\Users\macarajo\MyPortfolio\MyPortfolio.Server\obj\Debug\net9.0\ref\MyPortfolio.Server.dll
+C:\Users\macarajo\MyPortfolio\MyPortfolio.Server\obj\Debug\net9.0\MyPortfolio.Server.sourcelink.json
